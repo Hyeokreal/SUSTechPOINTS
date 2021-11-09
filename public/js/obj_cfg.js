@@ -8,6 +8,7 @@ var obj_type_map = {
     PersonalMobility: {color: '#00FFFF',  size:[1.6, 0.6, 1.6]},
     TrafficCone:      {color: '#00AAFF',  size:[0.3, 0.3, 1.0]},
     OtherVehicle:     {color: '#00FF00',  size:[4.5, 1.8, 1.5]},
+    Unknown:          {color: '#FF0000',  size:[4.5, 1.8, 1.5]},
 }
 
 
